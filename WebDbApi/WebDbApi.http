@@ -1,0 +1,6 @@
+@WebDbApi_HostAddress = http://localhost:5165
+
+GET {{WebDbApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
